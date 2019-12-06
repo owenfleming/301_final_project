@@ -1,0 +1,1 @@
+SELECT * FROM db_fall19_flemingo1.final_countries
